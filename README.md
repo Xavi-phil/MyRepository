@@ -1,4 +1,5 @@
 主要用python 开发了一个俄罗斯方块小游戏。
-主要用的tkinter包以及里面messagebox空间，以及time空间
+主要用的tkinter包以及里面messagebox控件，以及time空间
 有计时器，得分纪录仪等
 用户主要用↑↓←→操作，其中↑是操作积木变换形态
+主要参看csdn上的代码，自己认真学习了tkinter控件的作用
